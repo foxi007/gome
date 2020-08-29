@@ -1,0 +1,106 @@
+/* header */
+
+header .navigation {
+    width: 1100px;
+    height: 135px;
+    margin: 0 auto;
+}
+
+.navigation img {
+    width: 320px;
+    height: 62px;
+    padding-top: 35px;
+}
+
+.navigation .opinion {
+    width: 156px;
+    height: 40px;
+    float: right;
+}
+
+.opinion p {
+    line-height: 40px;
+    font-size: 14px;
+    color: #888888;
+    margin-left: 5px;
+}
+
+
+/* section */
+
+section {
+    width: 100%;
+    min-height: 200px;
+    background: #fff1e8;
+}
+
+.safeTipDiv {
+    width: 100%;
+    height: 30px;
+    background-color: #fff4e3;
+    border-top: 1px solid #fee6bc;
+}
+
+.safeTip {
+    width: 828px;
+    height: 29px;
+    padding-left: 10px;
+    margin: 0 auto;
+    background-color: #fff4e3;
+    color: #ff7f23;
+    font: 400 12px/29px "Microsoft Yahei";
+}
+
+section .bottom {
+    width: 1200px;
+    height: 480px;
+    background: url(../images/login/T1ruLjBvd_1RCvBVdK.jpg)no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+}
+
+.codeDiv {
+    width: 350px;
+    height: 370px;
+    border: 1px solid #888888;
+    float: right;
+    margin-top: 24px;
+    margin-right: 105px;
+    position: relative;
+    background: #fff;
+}
+
+.login-box {
+    width: 350px;
+    height: 54px;
+    position: relative;
+}
+
+.login-box-left {
+    float: left;
+    width: 174px;
+    height: 55px;
+    top: 14px;
+    position: absolute;
+    border-bottom: 1px solid #f4f4f4;
+    font: 500 18px "Microsoft Yahei";
+    text-align: center;
+}
+
+.login-box-right {
+    float: right;
+    width: 174px;
+    height: 55px;
+    top: 14px;
+    left: 174px;
+    position: absolute;
+    border-bottom: 1px solid #f4f4f4;
+    font: 500 18px "Microsoft Yahei";
+    text-align: center;
+}
+
+.loginbox {
+    width: 350px;
+    height: 266px;
+    border: 1px solid #555555;
+}
